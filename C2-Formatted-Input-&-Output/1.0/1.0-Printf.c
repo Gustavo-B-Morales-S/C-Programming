@@ -27,7 +27,7 @@
       Example: "This is a Float: %-10.2f"
 
     printf(String | Format String, Expression1, Expression2, ...)
-    
+
 */
 
 
@@ -41,4 +41,4 @@ int main(void) {
 
     return EXIT_SUCCESS;
 
-}
+};
