@@ -6,6 +6,6 @@
 - Modern approach to aspects of the C programming language.
 - Lots of Theoretical Examples & Practical Exercises.
 - Excellent balance between Theory and Practice IMO.
-- Covers C89 C11 / (ANSI C) / (C90) ISO C / C99 Sstandards
+- Covers (C11 / C89 (ANSI C) / C90 (ISO C) / C99) Standards
 
 ---
